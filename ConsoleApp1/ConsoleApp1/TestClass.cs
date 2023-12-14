@@ -12,5 +12,13 @@ namespace ConsoleApp1
         {
             Console.WriteLine("SHA for last commit was 1bfa2c59052bac1c057ce5cbd3f261136b93755f");
         }
+
+        public int Add()
+        {
+            int x1 = 1;
+            int x2 = 2;
+            int sum = x1 + x2;
+            return sum;
+        }
     }
 }
