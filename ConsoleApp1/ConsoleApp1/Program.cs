@@ -9,3 +9,4 @@ Console.WriteLine("Added feature: feature1");
 
 Console.WriteLine("Added features: feature2, feature3, feature4, feature5");
 
+Console.WriteLine("Added feature6");
