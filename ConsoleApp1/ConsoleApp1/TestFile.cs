@@ -1,1 +1,0 @@
-﻿Console.WriteLine("SHA for last commit was 1bfa2c59052bac1c057ce5cbd3f261136b93755f");
